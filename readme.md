@@ -15,3 +15,4 @@ Passo a passo:
 03. Homem pega a cabra que havia levado, retorna com ela para que esta não fique sozinha com o lobo.
 04. Homem deixa a cabra e leva o maço de alfafa.
 05. Homem retorna sozinho para buscar a cabra e assim todos atravessam em segurança.
+06. Fim do algoritmo.# JStests
